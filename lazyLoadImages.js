@@ -1,5 +1,10 @@
 /*
+ * jQuery Lazy Load Images plugin.
+ *
+ * https://github.com/jkeck/lazyLoadImages
+ *
  * VERSION 0.0.1
+ *
 **/
 (function( $ ){
 	$.fn.lazyLoadImages = function() {
