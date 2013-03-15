@@ -1,3 +1,6 @@
+/*
+ * VERSION 0.0.1
+**/
 (function( $ ){
 	$.fn.lazyLoadImages = function() {
 		var $this = this;
